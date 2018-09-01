@@ -1,2 +1,9 @@
 # General
 .DS_Store
+.*
+!.gitignore
+!.travis.yml
+dist/
+*.db
+*.egg-info/
+*.pyc
